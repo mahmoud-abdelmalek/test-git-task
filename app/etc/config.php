@@ -1,6 +1,7 @@
 <?php
 return [
     'modules' => [
+    	'MarkShust_PageBuilderSourceCode' => 1,
         'Magento_Store' => 1,
         'Magento_Config' => 1,
         'Magento_AdminAnalytics' => 1,
